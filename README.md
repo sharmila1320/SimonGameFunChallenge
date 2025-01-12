@@ -1,2 +1,2 @@
-# BeautyWeb
-A sleek and user-friendly website designed for a makeup shop, built using HTML, CSS, and JavaScript. It features an elegant layout showcasing beauty products, interactive elements for an engaging user experience, and responsive design to ensure compatibility across all devices. 
+# SimonChallenge 
+A fun and interactive memory game built with HTML, CSS, and JavaScript. Players replicate an increasingly complex sequence of lights and sounds. The logic tracks player input, compares it to the generated sequence, and increases difficulty with each level. A great project to demonstrate event handling, game logic, and dynamic user interaction.
